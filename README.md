@@ -1,1 +1,1 @@
-# -LeetStat-A-LeetCode-Stats-Tracker-
+# LeetStat - A LeetCode Stats Tracker
